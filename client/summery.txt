@@ -1,0 +1,9 @@
+/* here the first app i make working with react tool kit */
+- npm install react-redux @reduxjs/toolkit
+- create folder in src called redux 
+
+   - store.js 
+- import the provider from react-redux , store from redux folder inside the index.js then make the <App> inside the <provider store ={store}>  
+
+- make the reducer bazzerSlice.js 
+  inside it define the initialState then reducer 
