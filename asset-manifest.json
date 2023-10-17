@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bazar-Ecommerce-app/static/css/main.d10fdfb4.css",
+    "main.js": "/bazar-Ecommerce-app/static/js/main.fd257925.js",
+    "static/media/googleLogo.png": "/bazar-Ecommerce-app/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/bazar-Ecommerce-app/index.html",
+    "main.d10fdfb4.css.map": "/bazar-Ecommerce-app/static/css/main.d10fdfb4.css.map",
+    "main.fd257925.js.map": "/bazar-Ecommerce-app/static/js/main.fd257925.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10fdfb4.css",
+    "static/js/main.fd257925.js"
+  ]
+}
